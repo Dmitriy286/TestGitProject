@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="abaf9dac-445c-4f6e-905f-81de3a10c709" name="Changes" comment="Test comit" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653838019861</updated>
       <workItem from="1653838024117" duration="1000" />
-      <workItem from="1653839065166" duration="907000" />
+      <workItem from="1653839065166" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Test comit">
       <created>1653839490749</created>
@@ -58,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653839894947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test comit">
+      <created>1653839998486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653839998486</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test comit">
+      <created>1653840032696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653840032696</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test comit" />
+    <MESSAGE value="Test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
   </component>
 </project>
